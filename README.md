@@ -1,6 +1,6 @@
 <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+X+MUSIC)](https://github.com/Anurag8953/Iro)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+CUTE+X+MUSIC)](https://github.com/Anurag8953/Iro)
 
 <h2 align="center">
     ──「 Cute X Music 」──
@@ -8,24 +8,6 @@
 <p align="center">
   <img src="https://telegra.ph/file/692c17cc052a9249b182a.jpg">
 </p>
-
-<p align="center">
-<a href="https://github.com/shaeep043/Iro_x/stargazers"><img src="https://img.shields.io/github/stars/shaeep043/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/shaeep043/Iro_x/network/members"> <img src="https://img.shields.io/github/forks/shaeep043/Iro_x?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/shaeep043/Iro_x/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/shaeep043/Iro_x/commits/shaeep043"> <img src="https://img.shields.io/github/last-commit/shaeep043/Iro_x?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
-
-<p align="center">
-  <img src="https://telegra.ph/file/692c17cc052a9249b182a.jpg">
-</p>
-
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/shaeep043/Iro_x"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -59,32 +41,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 
-<h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
-</h3>
 
-<p align="center">
-<a href="https://telegram.me/Iro_m_bot"><img src="https://img.shields.io/badge/MUSIC%20BOT-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
 
-<p align="center">
-<a href="https://telegram.me/iro_x_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-<p align="center">
-<a href="https://telegram.me/iro_bot_support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
-
-<p align="center">
-<a href="https://github.com/Iro09"> <img src="https://img.shields.io/badge/PIKACHU♡-black?style=for-the-badge&logo=github" alt="PIKACHU♡" /> </a>
-<a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
-<a href="https://github.com/FantasticSukhi"> <img src="https://img.shields.io/badge/BLACKMAMBA-black?style=for-the-badge&logo=github" alt="Blackmamba" /> </a>
-<a href="https://github.com/raichuop07"> <img src="https://img.shields.io/badge/Raichu-black?style=for-the-badge&logo=github" alt="Raichu" /> </a>
-</p>
-
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Altron](https://t.me/hyperxfellings) </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [MR CUTE X](https://t.me/hyperxfellings) </b>
 
