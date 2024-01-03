@@ -24,25 +24,25 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Iro x ᴍᴜsɪᴄ")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Cute x ᴍᴜsɪᴄ")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6045293810").split())
+    map(int, getenv("OWNER_ID", "5111294407").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/shaeep043/Iro_x")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Anurag8953/Iro")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/iro_bot_support")
+    "SUPPORT_CHANNEL", "https://t.me/hyperxfellings")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/iro_x_support")
+    "SUPPORT_GROUP", "https://t.me/+JoSPjg4d91QzMWNl")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -68,7 +68,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "5"))
 
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "6"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/shaeep043/Iro_x")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Anurag8953/Iro")
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
@@ -104,7 +104,7 @@ LOG = 2
 LOG_FILE_NAME = "ɪꝛᴏ log.txt"
 adminlist = {}
 lyrical = {}
-DEV = 6045293810
+DEV = 5111294407
 chatstats = {}
 userstats = {}
 clean = {}
@@ -118,12 +118,12 @@ START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/5fb1d6a6dd6555
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/eee5e3d03dbfcf6514595.jpg",
+    "https://telegra.ph/file/d7ede14f8a4e56fdc424d.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://te.legra.ph/file/c5ae7505b832353b2dbfc.jpg",
+    "https://telegra.ph/file/492a3bb2e880d19750b79.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
@@ -133,7 +133,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://te.legra.ph/file/df481726bdfafdbc7d85c.jpg",
+    "https://telegra.ph/file/edd388a42dd2c499fd868.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
@@ -276,5 +276,5 @@ if TELEGRAM_VIDEO_URL:
 
 if not MUSIC_BOT_NAME.isascii():
     print(
-        "[KYA RE LAVDE] - BOHOT FONT LAGANE KA SHAUKH HAI. JAA PHIR IRO KO APNI CHUMT DEKE AA"
+        "[KYA RE LAVDE] - BOHOT FONT LAGANE KA SHAUKH HAI. JAA PHIR MR CUTE X KO APNI CHUMT DEKE AA"
     )
