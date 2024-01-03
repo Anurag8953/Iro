@@ -1,12 +1,12 @@
 <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+X+MUSIC)](https://github.com/shaeep043/Iro_X)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+X+MUSIC)](https://github.com/Anurag8953/Iro)
 
 <h2 align="center">
-    ──「 Iro X Music 」──
+    ──「 Cute X Music 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/7b9bfe8d7fbb2589071e3.jpg">
+  <img src="https://telegra.ph/file/692c17cc052a9249b182a.jpg">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/b8e797457f437310813cb.jpg">
+  <img src="https://telegra.ph/file/692c17cc052a9249b182a.jpg">
 </p>
 
 <h3 align="center">
@@ -86,6 +86,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/raichuop07"> <img src="https://img.shields.io/badge/Raichu-black?style=for-the-badge&logo=github" alt="Raichu" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Black Mamba](https://github.com/FantasticSukhi) </b>
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Altron](https://t.me/TheAltron) </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Altron](https://t.me/hyperxfellings) </b>
 
